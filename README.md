@@ -1,1 +1,1 @@
-Example of custom directives in angular, from codecademy
+Example of custom directive in angular, from codecademy
